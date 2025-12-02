@@ -6,12 +6,6 @@ This project is a complete end-to-end **Data Engineering Pipeline** that scrapes
 
 ---
 
-## 📌 Project Architecture
-
-![Architecture](Arcitecture_pak_02.png)
-
----
-
 ## 🔽 1. Scrape Data from PakWheels
 - Scraping using BeautifulSoup / Selenium
 - Extract fields:
